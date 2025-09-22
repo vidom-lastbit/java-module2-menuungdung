@@ -29,6 +29,7 @@ public class App {
                     }
                     System.out.println();
                 }
+                break;
             case 3:
                 System.out.println("Draw the retangle");
                 for (int i = 1; i <= 3; i++) {
@@ -37,6 +38,7 @@ public class App {
                     }
                     System.out.println();
                 }
+                break;
             case 0:
                 System.exit(0);
             default:
